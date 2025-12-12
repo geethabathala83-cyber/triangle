@@ -1,0 +1,2 @@
+# triangle
+areaofcircle, pascaltrianglewithnum, pascaltriangleofnthrow
